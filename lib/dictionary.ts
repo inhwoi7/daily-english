@@ -330,7 +330,7 @@ export const EXTRA_VOCAB: VocabWord[] = [
 ]
 
 // ── 전체 합본 ─────────────────────────────────────────────
-export const ALL_VOCAB: VocabWord[] = [...VOCAB_DB, ...EXTRA_VOCAB]
+export const ALL_VOCAB: VocabWord[] = [...VOCAB_DB, ...EXTRA_VOCAB, ...MEETING_EXTRA]
 
 export const MEETING_EXTRA: VocabWord[] = [
   // ── 회의 시작 ────────────────────────────────────────────
