@@ -111,7 +111,7 @@ function HomeTab({
   onTabChange,
 }: {
   situations: Situation[]
-  todayWord: typeof BUSINESS_VOCAB[0]
+  todayWord: typeof FULL_VOCAB[0]
   onTabChange: (t: Tab) => void
 }) {
   return (
