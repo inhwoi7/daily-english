@@ -1,0 +1,18 @@
+{
+  "name": "DailyEN — 직장인 영어",
+  "short_name": "DailyEN",
+  "description": "매일 5분, 틈날 때마다 하는 직장인 실전 영어",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#534AB7",
+  "theme_color": "#534AB7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
