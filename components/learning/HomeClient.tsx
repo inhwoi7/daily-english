@@ -2,7 +2,7 @@
 // components/learning/HomeClient.tsx
 import { useState, useEffect } from 'react'
 import type { Situation } from '@/types'
-import { FULL_VOCAB as ALL_VOCAB } from '@/lib/dictionary'
+import { ALL_VOCAB } from '@/lib/dictionary'
 import DictionaryTab from './DictionaryTab'
 import FlashcardTab from './FlashcardTab'
 import SavedTab from './SavedTab'
